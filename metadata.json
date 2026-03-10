@@ -1,0 +1,5 @@
+{
+  "name": "Furniture AI Studio",
+  "description": "Upload furniture catalogs and visualize them in customer rooms using Gemini Pro Image.",
+  "requestFramePermissions": []
+}
