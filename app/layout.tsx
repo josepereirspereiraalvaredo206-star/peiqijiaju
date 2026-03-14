@@ -13,8 +13,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: '家具 AI 视界',
-  description: '使用 AI 在您的房间中可视化家具',
+  title: '佩奇家具',
+  description: '用佩奇家具配齐家具',
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {

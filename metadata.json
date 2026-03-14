@@ -1,5 +1,5 @@
 {
-  "name": "Furniture AI Studio",
-  "description": "Upload furniture catalogs and visualize them in customer rooms using Gemini Pro Image.",
+  "name": "佩奇家具",
+  "description": "用佩奇家具配齐家具。上传家具图册，使用 AI 在客户房间中可视化家具效果。",
   "requestFramePermissions": []
 }
